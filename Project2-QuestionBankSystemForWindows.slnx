@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project2-QuestionBankSystemForWindows/Project2-QuestionBankSystemForWindows.vcxproj" Id="2f6b838a-873e-4de8-b8c7-d06b1398c901" />
+</Solution>
